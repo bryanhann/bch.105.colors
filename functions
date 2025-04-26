@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+:_red () { clr_red clr_bold "$*" ; }
+
